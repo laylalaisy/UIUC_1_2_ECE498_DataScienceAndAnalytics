@@ -14,6 +14,7 @@ Please try yourself and have fun working on those interesting projects!
 
 ## MP
 - MP1: Autonomous Vehicle Safety Analysis
+- MP2: Unsupervised Single‑Cell Analysis in Triple‑Negative Breast Cancer
 
 
 ## Tips:
