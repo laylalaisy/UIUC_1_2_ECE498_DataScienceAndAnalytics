@@ -14,6 +14,7 @@ Please try yourself and have fun working on those interesting projects!
 
 ## HW
 - HW0: Basic Probability Review Problems
+- HW1: Pandas
 
 ## MP
 - MP1: Autonomous Vehicle Safety Analysis
