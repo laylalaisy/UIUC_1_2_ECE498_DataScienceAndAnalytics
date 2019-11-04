@@ -12,6 +12,10 @@ Please try yourself and have fun working on those interesting projects!
 1. Python + Jupyter Notebook
 2. See each program/homework under different folders. I will not upload any resources from professor, I will only upload my work including homework, source code and related notes. If you find anything I should not open source, please email me.
 
+## MP
+- MP1: Autonomous Vehicle Safety Analysis
+- MP2: Unsupervised Single‑Cell Analysis in Triple‑Negative Breast Cancer
+
 ## HW
 - HW0: Basic Probability Review Problems
 - HW1: Pandas
@@ -19,11 +23,6 @@ Please try yourself and have fun working on those interesting projects!
 - HW3
 - HW4
 - HW5
-
-## MP
-- MP1: Autonomous Vehicle Safety Analysis
-- MP2: Unsupervised Single‑Cell Analysis in Triple‑Negative Breast Cancer
-
 
 ## Tips:
 1. All codes and notes will be open source after my final test (in case of copy)
